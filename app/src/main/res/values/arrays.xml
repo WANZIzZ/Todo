@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="type">
+        <item>只用这一个</item>
+        <item>工作</item>
+        <item>学习</item>
+        <item>生活</item>
+    </string-array>
+
+    <string-array name="notdo_options">
+        <item>更新状态</item>
+        <item>更新内容</item>
+    </string-array>
+
+    <string-array name="done_options">
+        <item>更新状态</item>
+    </string-array>
+
+</resources>

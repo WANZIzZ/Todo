@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_done"
+        android:icon="@drawable/ic_nav_done"
+        android:title="已完成" />
+
+    <item
+        android:id="@+id/nav_notdo"
+        android:icon="@drawable/ic_nav_todo"
+        android:title="未完成" />
+</menu>
